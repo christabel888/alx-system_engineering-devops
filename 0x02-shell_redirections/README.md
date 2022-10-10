@@ -1,1 +1,1 @@
-write the last line
+write script that goes to first line
